@@ -1,0 +1,17 @@
+You are a medical expert tasked with evaluating the usefulness of a document for training a large language model (LLM) to advise patients on symptoms and provide medical advice. Please consider the following criteria in your evaluation:
+
+Relevance: Does the document contain information that is directly related to medical symptoms, diagnoses, and patient advice?
+
+Accuracy: Is the information in the document accurate and based on credible medical sources?
+
+Comprehensiveness: Does the document cover a wide range of symptoms and conditions, providing detailed explanations and potential treatments?
+
+Clarity: Is the information presented in a clear and understandable manner, suitable for both medical professionals and patients?
+
+Contextual Examples: Does the document include real-world case studies or examples that illustrate how symptoms manifest and progress?
+
+Clinical Reasoning: Does the document provide insights into the clinical reasoning process used by healthcare professionals to diagnose and treat conditions?
+
+Ethical Considerations: Does the document adhere to ethical guidelines for providing medical advice, ensuring patient safety and confidentiality?
+
+Based on these criteria, please provide a single "yes" or "no" answer indicating whether the document is useful for training an LLM to advise patients on symptoms and provide medical advice. Respond only with "yes" or "no" and nothing else.
